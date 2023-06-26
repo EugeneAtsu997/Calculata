@@ -1,0 +1,15 @@
+C:\Users\EUGENE\source\repos\CalB\CalB\bin\Debug\net6.0\CalB.exe
+C:\Users\EUGENE\source\repos\CalB\CalB\bin\Debug\net6.0\CalB.deps.json
+C:\Users\EUGENE\source\repos\CalB\CalB\bin\Debug\net6.0\CalB.runtimeconfig.json
+C:\Users\EUGENE\source\repos\CalB\CalB\bin\Debug\net6.0\CalB.dll
+C:\Users\EUGENE\source\repos\CalB\CalB\bin\Debug\net6.0\CalB.pdb
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.csproj.AssemblyReference.cache
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.AssemblyInfoInputs.cache
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.AssemblyInfo.cs
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.csproj.CoreCompileInputs.cache
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.dll
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\refint\CalB.dll
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.pdb
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\CalB.genruntimeconfig.cache
+C:\Users\EUGENE\source\repos\CalB\CalB\obj\Debug\net6.0\ref\CalB.dll
